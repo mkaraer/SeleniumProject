@@ -26,7 +26,7 @@ public class Amazon {
         System.out.println("title"+ title);
         String url=driver.getCurrentUrl();
         System.out.println(url);
-        driver.close();
+    //    driver.close();
 
 
 
